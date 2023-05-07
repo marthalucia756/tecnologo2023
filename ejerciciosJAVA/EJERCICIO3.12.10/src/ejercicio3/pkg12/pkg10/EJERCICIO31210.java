@@ -18,6 +18,7 @@ public class EJERCICIO31210 {
          int num1 = 0, num2 = 1;
         System.out.print(num1 + " " + num2 + " ");
         int suma = 0;
+        
         while (suma <= 100) {
             suma = num1 + num2;
             if (suma <= 100) {
